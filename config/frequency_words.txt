@@ -10,10 +10,6 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
 鞠婧祎
 张元英
 柳智敏
