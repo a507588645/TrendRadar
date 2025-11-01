@@ -13,8 +13,6 @@ Anthropic
 鞠婧祎
 张元英
 柳智敏
-illit
-ILLIT
 GAEUL
 金秋天
 金冬天
@@ -24,11 +22,13 @@ GAEUL
 !贾跃亭
 !车
 !企业家
-ins
-instagram
-weverse
-idol
-
+ILLIT
+AESPA
+!product
+IAN
+JIWOO
+HEARTS2HEARTS
+hearts2hearts
 
 考研
 
@@ -37,7 +37,3 @@ idol
 王者皮肤
 王者荣耀皮肤
 原神
-
-LINUX
-linux
-linux.do
